@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PluginDemo1</string>
+    <string name="test">动态插件</string>
+</resources>

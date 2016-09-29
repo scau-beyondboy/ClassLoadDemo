@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassLoadDemo</string>
+    <string name="test">宿主APK</string>
+    <string name="b">宿主字符</string>
+    <string name="a">test</string>
+    <string name="d">test</string>
+    <string name="e">test</string>
+</resources>
